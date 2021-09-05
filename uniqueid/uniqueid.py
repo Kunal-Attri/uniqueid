@@ -1,6 +1,6 @@
 import random
 
-class uniqueId():
+class uniqueid():
     
     def __init__(self):
         
